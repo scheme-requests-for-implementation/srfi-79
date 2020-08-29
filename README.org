@@ -10,7 +10,7 @@ This repository hosts [[https://srfi.schemers.org/srfi-79/][SRFI 79]]: Primitive
 
 This SRFI is in /withdrawn/ status.
 
-See also [[https://srfi.schemers.org/srfi-181/][SRFI 181: Custom ports]].
+See also [[https://srfi.schemers.org/srfi-181/][SRFI 181: Custom ports (including transcoded ports)]].
 
 The full documentation for this SRFI can be found in the [[https://srfi.schemers.org/srfi-79/srfi-79.html][SRFI Document]].
 
